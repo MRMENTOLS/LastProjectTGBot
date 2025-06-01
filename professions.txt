@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Программист",
+    "description": "Разработка программного обеспечения.",
+    "skills": ["логика", "знание алгоритмов", "умение работать с кодом"],
+    "salary": {"junior": "60 000 ₽", "mid": "120 000 ₽", "senior": "250 000 ₽"},
+    "education": ["https://stepik.org/course/575",  "https://habr.com/career"] 
+  },
+  {
+    "name": "Маркетолог",
+    "description": "Планирование продвижения продуктов и услуг.",
+    "skills": ["аналитика", "креативность", "понимание рынка"],
+    "salary": {"junior": "40 000 ₽", "mid": "80 000 ₽", "senior": "150 000 ₽"},
+    "education": ["https://practicum.yandex.ru/marketing-specialist/",  "https://netology.ru"] 
+  },
+  {
+    "name": "Юрист",
+    "description": "Правовая защита интересов физических и юридических лиц.",
+    "skills": ["знания законодательства", "грамотность", "аналитическое мышление"],
+    "salary": {"junior": "50 000 ₽", "mid": "100 000 ₽", "senior": "300 000 ₽"},
+    "education": ["https://www.hse.ru/ba/law/",  "https://urfu.ru/ru/education/programs/"] 
+  },
+  {
+    "name": "Биолог",
+    "description": "Изучение живых организмов и экосистем.",
+    "skills": ["наблюдательность", "точность", "научное мышление"],
+    "salary": {"junior": "35 000 ₽", "mid": "60 000 ₽", "senior": "120 000 ₽"},
+    "education": ["https://bio.msu.ru/",  "https://spbau.ru/"] 
+  },
+  {
+    "name": "Физик",
+    "description": "Изучение законов природы и их применение в науке и технике.",
+    "skills": ["математический аппарат", "аналитика", "экспериментирование"],
+    "salary": {"junior": "40 000 ₽", "mid": "80 000 ₽", "senior": "180 000 ₽"},
+    "education": ["https://phys.msu.ru/",  "https://mipt.ru/"] 
+  },
+  {
+    "name": "Экономист",
+    "description": "Анализ экономических процессов и управление финансами.",
+    "skills": ["экономическая теория", "статистика", "работа с Excel"],
+    "salary": {"junior": "45 000 ₽", "mid": "90 000 ₽", "senior": "180 000 ₽"},
+    "education": ["https://www.hse.ru/ba/economics/",  "https://www.ranepa.ru/"] 
+  },
+  {
+    "name": "Журналист",
+    "description": "Подготовка и публикация новостных материалов.",
+    "skills": ["письмо", "интервью", "работа с текстом"],
+    "salary": {"junior": "30 000 ₽", "mid": "60 000 ₽", "senior": "120 000 ₽"},
+    "education": ["https://www.mgimo.ru/",  "https://journalism.msu.ru/"] 
+  },
+  {
+    "name": "Дизайнер",
+    "description": "Создание визуальных решений для цифровых и печатных материалов.",
+    "skills": ["творчество", "Adobe Photoshop", "Figma"],
+    "salary": {"junior": "40 000 ₽", "mid": "80 000 ₽", "senior": "150 000 ₽"},
+    "education": ["https://artlebedev.ru/school/",  "https://shpp.info/"] 
+  },
+  {
+    "name": "Химик",
+    "description": "Изучение химических реакций и веществ.",
+    "skills": ["химические формулы", "лабораторная работа", "точность"],
+    "salary": {"junior": "35 000 ₽", "mid": "60 000 ₽", "senior": "120 000 ₽"},
+    "education": ["https://chem.msu.ru/",  "https://muctr.ru/"] 
+  },
+  {
+    "name": "Географ",
+    "description": "Изучение земной поверхности и природных процессов.",
+    "skills": ["картография", "геоинформационные системы", "анализ данных"],
+    "salary": {"junior": "30 000 ₽", "mid": "50 000 ₽", "senior": "100 000 ₽"},
+    "education": ["https://geogr.msu.ru/",  "https://spbu.ru/"] 
+  },
+  {
+    "name": "Писатель",
+    "description": "Создание литературных произведений и статей.",
+    "skills": ["творчество", "грамотность", "воображение"],
+    "salary": {"junior": "25 000 ₽", "mid": "50 000 ₽", "senior": "100 000 ₽"},
+    "education": ["https://litinstitut.ru/",  "https://www.pushkinskijdom.ru/"] 
+  },
+  {
+    "name": "Врач",
+    "description": "Лечение и диагностика пациентов.",
+    "skills": ["биология", "химия", "внимательность"],
+    "salary": {"junior": "50 000 ₽", "mid": "100 000 ₽", "senior": "200 000 ₽"},
+    "education": ["https://sechenov.ru/",  "https://rostsmu.ru/"] 
+  },
+  {
+    "name": "Учитель",
+    "description": "Образование детей по определённому предмету.",
+    "skills": ["общение", "объяснение сложного простым языком", "педагогика"],
+    "salary": {"junior": "30 000 ₽", "mid": "45 000 ₽", "senior": "70 000 ₽"},
+    "education": ["https://www.mgpu.ru/",  "https://www.rudn.ru/"] 
+  },
+  {
+    "name": "Философ",
+    "description": "Изучение фундаментальных вопросов бытия и морали.",
+    "skills": ["логика", "анализ", "критическое мышление"],
+    "salary": {"junior": "30 000 ₽", "mid": "50 000 ₽", "senior": "100 000 ₽"},
+    "education": ["https://philosophy.msu.ru/",  "https://www.hse.ru/ba/philosophy/"] 
+  },
+  {
+    "name": "Инженер",
+    "description": "Проектирование и разработка технических систем.",
+    "skills": ["математика", "физика", "техническое мышление"],
+    "salary": {"junior": "50 000 ₽", "mid": "100 000 ₽", "senior": "180 000 ₽"},
+    "education": ["https://bmstu.ru/",  "https://misis.ru/"] 
+  }
+]
