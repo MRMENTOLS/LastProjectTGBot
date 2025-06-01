@@ -57,4 +57,10 @@ pip install -r requirements.txt
 ### 3. Запусти Бота
 python bot.py
 
+## Скриншоты
+![Снимок экрана 2025-06-01 131311](https://github.com/user-attachments/assets/532225ad-6f8b-4795-b333-9c13eabd4c6a)
+![Снимок экрана 2025-06-01 131320](https://github.com/user-attachments/assets/34daa05e-6814-49a2-853b-5d27806ab25f)
+![Снимок экрана 2025-06-01 131329](https://github.com/user-attachments/assets/90da5992-22ac-4c53-9bae-df61025a4b0c)
+![Снимок экрана 2025-06-01 131335](https://github.com/user-attachments/assets/915b758b-98e1-4ca9-b0b0-2a0717ce2473)
+![Снимок экрана 2025-06-01 131510](https://github.com/user-attachments/assets/2aa47c4e-664a-4016-aff3-2a141411ae43)
 
